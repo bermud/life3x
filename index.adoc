@@ -11,7 +11,7 @@ We are moving the forward the dialog to designed a better world. Join us.
 
 A conference will take place in Washington DC in 2018. Various meetups are planned for 2017. Stay tuned.
 
-image::ConferenceOnePager-01.jpg
+image::ConferenceOnePager-01.jpg[width=800]
 
 
 
